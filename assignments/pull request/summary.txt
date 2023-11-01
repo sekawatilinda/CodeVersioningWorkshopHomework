@@ -1,0 +1,4 @@
+Before do the pull request ensure that we have committed the changes to the right branch. 
+And then we can do git pull. In the GitHub, there will be reviewer who will review the pull request. Once it is approved, we can do merging into the master branch.
+
+In commit, we can undo the changes by using git reset
