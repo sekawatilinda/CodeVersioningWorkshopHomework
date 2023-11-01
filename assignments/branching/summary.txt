@@ -1,2 +1,3 @@
 Branch allows us to work on multiple lines of development.
 This is useful in the collaboration because each person can create his own branch without changing the master branch before got reviewed.
+Creating branch is available using GitHub, we also can track how many branches created and when the changes is merge. 
