@@ -1,0 +1,1 @@
+Merge is to integrate the changes we made in one brach to another.
