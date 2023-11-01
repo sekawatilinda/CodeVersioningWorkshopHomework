@@ -1,2 +1,3 @@
 Merge is to integrate the changes we made in one brach to another.
 We can add git pull in order to fetch the updated code from the remote repository plus merging the changes from local to remote repository.
+We need to do pull request first to get the review before merging the changes.
